@@ -15,4 +15,4 @@ A simple, clean, and modern portfolio website made by **We R Developer**. This s
 ## How to Use  
 1. Clone or download the repository:  
    ```bash  
-   git clone https://github.com/your-username/your-repo-name.git  
+   git clone https://github.com/werdevelopers/WRD-Portfolio.git  
