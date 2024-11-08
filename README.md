@@ -12,7 +12,4 @@ A **simple, clean, and modern** portfolio website created by **We R Developer**.
 
 ---
 
-# ⚡ SCREENSHOT ⚡
-<p align="center">
-  <img src="https://envs.sh/jXt.jpg" alt="WRD">
-</p>
+# ⚡ SEE DEMO : [CLICK HERE](https://werdeveloper.vercel.app)
