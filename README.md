@@ -16,3 +16,6 @@ A **simple, clean, and modern** portfolio website created by **We R Developer**.
 <p align="center">
   <img src="https://envs.sh/jXt.jpg" alt="WRD">
 </p>
+<p align="center">
+  <h1>WE R DEVELOPERS</h1>
+</p>
